@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋 I'm Ishaan</h1>
+<h1 align="center">Hi 👋 I'm Aayush</h1>
 <h3 align="center">A Passionate Full-Stack Developer, and Problem Solver</h3>
 
-<h3 align="center" style="color: #0E9CF7;">Exploring Web3 and blockchain development</h3>
+<h3 align="center" style="color: #0E9CF7;">Exploring Different career options</h3>
 
-- 📫 Reach me at **jainishaan987@gmail.com**
+- 📫 Reach me at **aayushjalandhar@gmail.com**
 
 ⚡ "Turning ideas into reality with code and creativity!"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ishaanjain1412" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="Ishaan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ishaan--jain14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ishaan" height="30" width="40" /></a>
+<a href="https://x.com/aayushkalia16" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1726590988~exp=1726591588~hmac=05917c81aad1f3bf834d19114f24881e8338a2f3595ad7686dd9710d742b4aae" alt="Aayush" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-kalia-07343128a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aayush" height="30" width="40" /></a>
 </p>
 
 <h3>Languages</h3>
@@ -54,4 +54,4 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaanjain14&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushkalia&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
